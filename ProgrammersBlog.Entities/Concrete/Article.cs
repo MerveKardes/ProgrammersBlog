@@ -14,7 +14,7 @@ namespace ProgrammersBlog.Entities.Concrete
         public string Thumbnail { get; set; }
         public DateTime Date { get; set; }
         public int ViewsCount { get; set; }
-        public int CommetCount { get; set; }
+        public int CommentCount { get; set; }
         public string SeoAuthor { get; set; }
         public string SeoDescription { get; set; }
         public string SeoTags { get; set; }
